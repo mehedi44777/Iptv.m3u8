@@ -1,31 +1,61 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/epg.xml"
-#EXTINF:-1 tvg-id="dsports.fhd" tvg-name="DSPORTS FHD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",DSPORTS FHD
-https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/dsportsfhd.m3u8
-#EXTINF:-1 tvg-id="bangla.wc26" tvg-name="Bangla WC26" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",Bangla WC26
-https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/banglawc26.m3u8
-#EXTINF:-1 tvg-id="bein1.fhd" tvg-name="BEIN 1 FHD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",BEIN 1 FHD
-https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/bein1fhd.m3u8
-#EXTINF:-1 tvg-id="bein.max1" tvg-name="Bein Sports Max 1" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",Bein Sports Max 1
-https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/beinmax1.m3u8
-#EXTINF:-1 tvg-id="bein.max2" tvg-name="Bein Sports Max 2" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",Bein Sports Max 2
-https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/beinmax2.m3u8
-#EXTINF:-1 tvg-id="bein.max3" tvg-name="Bein Sports Max 3" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",Bein Sports Max 3
-https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/beinmax3.m3u8
-#EXTINF:-1 tvg-id="cignal.tv" tvg-name="CIGNAL TV" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",CIGNAL TV
-https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/cignaltv.m3u8
-#EXTINF:-1 tvg-id="caze.tv" tvg-name="Caze TV" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",Caze TV
-https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/cazetv.m3u8
-#EXTINF:-1 tvg-id="caze.tvbr" tvg-name="Caze TV BR" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",Caze TV BR
-https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/cazetvbr.m3u8
-#EXTINF:-1 tvg-id="ddsports.1" tvg-name="DD Sports 1.0" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",DD Sports 1.0
-https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/ddsports1.m3u8
-#EXTINF:-1 tvg-id="dsports.hd" tvg-name="DSPORTS HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",DSPORTS HD
-https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/dsportshd.m3u8
-#EXTINF:-1 tvg-id="foxsports.us" tvg-name="FOX SPORTS US" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",FOX SPORTS US
-https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/foxsportsus.m3u8
-#EXTINF:-1 tvg-id="france.tv" tvg-name="FRANCE TV" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",FRANCE TV
-https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/francetv.m3u8
-#EXTINF:-1 tvg-id="himalaya.hd" tvg-name="Himalaya HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",Himalaya HD
-https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/himalayahd.m3u8
-#EXTINF:-1 tvg-id="himalaya.premium" tvg-name="Himalayan Premium HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",Himalayan Premium HD
-https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/himalayapremiumhd.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/tsports.png" group-title="World Cup",T Sports
+http://103.153.181.18:8080/tsports/index.m3u8
+#EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/gtv.png" group-title="World Cup",GTV
+http://103.153.181.18:8080/gtv/index.m3u8
+#EXTINF:-1 tvg-id="sports18" tvg-name="Sports 18 1 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/sports18.png" group-title="World Cup",Sports 18 1 HD
+http://103.153.181.18:8080/sports18/index.m3u8
+#EXTINF:-1 tvg-id="ddsports" tvg-name="DD Sports" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/ddsports.png" group-title="World Cup",DD Sports
+http://103.153.181.18:8080/ddsports/index.m3u8
+#EXTINF:-1 tvg-id="toffee1" tvg-name="Toffee Live 1" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/toffee.png" group-title="World Cup",Toffee Live 1
+http://103.153.181.18:8080/toffee1/index.m3u8
+#EXTINF:-1 tvg-id="toffee2" tvg-name="Toffee Live 2" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/toffee.png" group-title="World Cup",Toffee Live 2
+http://103.153.181.18:8080/toffee2/index.m3u8
+#EXTINF:-1 tvg-id="dsports" tvg-name="DSPORT" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/dsports.png" group-title="World Cup",DSPORT
+http://103.153.181.18:8080/dsports/index.m3u8
+#EXTINF:-1 tvg-id="dsportshd" tvg-name="DSPORT HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/dsports.png" group-title="World Cup",DSPORT HD
+http://103.153.181.18:8080/dsportshd/index.m3u8
+#EXTINF:-1 tvg-id="eurosport" tvg-name="Eurosport HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/eurosport.png" group-title="World Cup",Eurosport HD
+http://103.153.181.18:8080/eurosport/index.m3u8
+#EXTINF:-1 tvg-id="sonyten1" tvg-name="Sony Sports Ten 1 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/sonyten1.png" group-title="World Cup",Sony Sports Ten 1 HD
+http://103.153.181.18:8080/sonyten1/index.m3u8
+#EXTINF:-1 tvg-id="sonyten2" tvg-name="Sony Sports Ten 2 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/sonyten2.png" group-title="World Cup",Sony Sports Ten 2 HD
+http://103.153.181.18:8080/sonyten2/index.m3u8
+#EXTINF:-1 tvg-id="sonyten3" tvg-name="Sony Sports Ten 3 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/sonyten3.png" group-title="World Cup",Sony Sports Ten 3 HD
+http://103.153.181.18:8080/sonyten3/index.m3u8
+#EXTINF:-1 tvg-id="sonyten4" tvg-name="Sony Sports Ten 4 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/sonyten4.png" group-title="World Cup",Sony Sports Ten 4 HD
+http://103.153.181.18:8080/sonyten4/index.m3u8
+#EXTINF:-1 tvg-id="sonyten5" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/sonyten5.png" group-title="World Cup",Sony Sports Ten 5 HD
+http://103.153.181.18:8080/sonyten5/index.m3u8
+#EXTINF:-1 tvg-id="starsports1" tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/starsports1.png" group-title="World Cup",Star Sports 1 HD
+http://103.153.181.18:8080/starsports1/index.m3u8
+#EXTINF:-1 tvg-id="starsports2" tvg-name="Star Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/starsports2.png" group-title="World Cup",Star Sports 2 HD
+http://103.153.181.18:8080/starsports2/index.m3u8
+#EXTINF:-1 tvg-id="starsports3" tvg-name="Star Sports 3" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/starsports3.png" group-title="World Cup",Star Sports 3
+http://103.153.181.18:8080/starsports3/index.m3u8
+#EXTINF:-1 tvg-id="ssselect1" tvg-name="Star Sports Select 1 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/ssselect1.png" group-title="World Cup",Star Sports Select 1 HD
+http://103.153.181.18:8080/ssselect1/index.m3u8
+#EXTINF:-1 tvg-id="ssselect2" tvg-name="Star Sports Select 2 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/ssselect2.png" group-title="World Cup",Star Sports Select 2 HD
+http://103.153.181.18:8080/ssselect2/index.m3u8
+#EXTINF:-1 tvg-id="sportsdigital" tvg-name="Sportdigital FUSSBALL" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/sportsdigital.png" group-title="World Cup",Sportdigital FUSSBALL
+http://103.153.181.18:8080/sportsdigital/index.m3u8
+#EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/ptvsports.png" group-title="World Cup",PTV Sports
+http://103.153.181.18:8080/ptvsports/index.m3u8
+#EXTINF:-1 tvg-id="arenasport1" tvg-name="Arena Sport 1" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/arenasport.png" group-title="World Cup",Arena Sport 1
+http://103.153.181.18:8080/arenasport1/index.m3u8
+#EXTINF:-1 tvg-id="arenasport2" tvg-name="Arena Sport 2" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/arenasport.png" group-title="World Cup",Arena Sport 2
+http://103.153.181.18:8080/arenasport2/index.m3u8
+#EXTINF:-1 tvg-id="ssblitz" tvg-name="SuperSport Blitz" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/supersport.png" group-title="World Cup",SuperSport Blitz
+http://103.153.181.18:8080/ssblitz/index.m3u8
+#EXTINF:-1 tvg-id="ssgrandstand" tvg-name="SuperSport Grandstand" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/supersport.png" group-title="World Cup",SuperSport Grandstand
+http://103.153.181.18:8080/ssgrandstand/index.m3u8
+#EXTINF:-1 tvg-id="fifafeed1" tvg-name="FIFA Match Feed 1" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="World Cup",FIFA Match Feed 1
+http://103.153.181.18:8080/fifafeed1/index.m3u8
+#EXTINF:-1 tvg-id="fifafeed2" tvg-name="FIFA Match Feed 2" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="World Cup",FIFA Match Feed 2
+http://103.153.181.18:8080/fifafeed2/index.m3u8
+#EXTINF:-1 tvg-id="willow" tvg-name="Willow Cricket HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/willow.png" group-title="World Cup",Willow Cricket HD
+http://103.153.181.18:8080/willow/index.m3u8
+#EXTINF:-1 tvg-id="astro" tvg-name="Astro SuperSport HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/astro.png" group-title="World Cup",Astro SuperSport HD
+http://103.153.181.18:8080/astro/index.m3u8
+#EXTINF:-1 tvg-id="skysports" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/skysports.png" group-title="World Cup",Sky Sports Main Event
+http://103.153.181.18:8080/skysports/index.m3u8
