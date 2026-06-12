@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
 #EXTINF:-1 tvg-id="t sports" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/image/T_Sports.png" group-title="World_Cup",T Sports
 http://198.195.239.50:8095/T-spo_rts-hoichoi24/video.m3u8
 
