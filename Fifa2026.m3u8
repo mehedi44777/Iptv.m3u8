@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/ddsports1.m
 https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/dsportshd.m3u8
 #EXTINF:-1 tvg-id="foxsports.us" tvg-name="FOX SPORTS US" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",FOX SPORTS US
 https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/foxsportsus.m3u8
-#EXTINF:-1 tvg-id="france.tv" tvg-name="FRANCE TV" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",FRANCE TV
+#EXTINF:-1 tvg-id="france.tv" tvg-name="FRANCE TV" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",FRANCE TV
 https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/francetv.m3u8
 #EXTINF:-1 tvg-id="himalaya.hd" tvg-name="Himalaya HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",Himalaya HD
 https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/himalayahd.m3u8
