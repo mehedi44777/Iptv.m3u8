@@ -1,61 +1,75 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/tsports.png" group-title="World Cup",T Sports
-http://103.153.181.18:8080/tsports/index.m3u8
-#EXTINF:-1 tvg-id="gtv" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/gtv.png" group-title="World Cup",GTV
-http://103.153.181.18:8080/gtv/index.m3u8
-#EXTINF:-1 tvg-id="sports18" tvg-name="Sports 18 1 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/sports18.png" group-title="World Cup",Sports 18 1 HD
-http://103.153.181.18:8080/sports18/index.m3u8
-#EXTINF:-1 tvg-id="ddsports" tvg-name="DD Sports" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/ddsports.png" group-title="World Cup",DD Sports
-http://103.153.181.18:8080/ddsports/index.m3u8
-#EXTINF:-1 tvg-id="toffee1" tvg-name="Toffee Live 1" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/toffee.png" group-title="World Cup",Toffee Live 1
-http://103.153.181.18:8080/toffee1/index.m3u8
-#EXTINF:-1 tvg-id="toffee2" tvg-name="Toffee Live 2" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/toffee.png" group-title="World Cup",Toffee Live 2
-http://103.153.181.18:8080/toffee2/index.m3u8
-#EXTINF:-1 tvg-id="dsports" tvg-name="DSPORT" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/dsports.png" group-title="World Cup",DSPORT
-http://103.153.181.18:8080/dsports/index.m3u8
-#EXTINF:-1 tvg-id="dsportshd" tvg-name="DSPORT HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/dsports.png" group-title="World Cup",DSPORT HD
-http://103.153.181.18:8080/dsportshd/index.m3u8
-#EXTINF:-1 tvg-id="eurosport" tvg-name="Eurosport HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/eurosport.png" group-title="World Cup",Eurosport HD
-http://103.153.181.18:8080/eurosport/index.m3u8
-#EXTINF:-1 tvg-id="sonyten1" tvg-name="Sony Sports Ten 1 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/sonyten1.png" group-title="World Cup",Sony Sports Ten 1 HD
-http://103.153.181.18:8080/sonyten1/index.m3u8
-#EXTINF:-1 tvg-id="sonyten2" tvg-name="Sony Sports Ten 2 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/sonyten2.png" group-title="World Cup",Sony Sports Ten 2 HD
-http://103.153.181.18:8080/sonyten2/index.m3u8
-#EXTINF:-1 tvg-id="sonyten3" tvg-name="Sony Sports Ten 3 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/sonyten3.png" group-title="World Cup",Sony Sports Ten 3 HD
-http://103.153.181.18:8080/sonyten3/index.m3u8
-#EXTINF:-1 tvg-id="sonyten4" tvg-name="Sony Sports Ten 4 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/sonyten4.png" group-title="World Cup",Sony Sports Ten 4 HD
-http://103.153.181.18:8080/sonyten4/index.m3u8
-#EXTINF:-1 tvg-id="sonyten5" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/sonyten5.png" group-title="World Cup",Sony Sports Ten 5 HD
-http://103.153.181.18:8080/sonyten5/index.m3u8
-#EXTINF:-1 tvg-id="starsports1" tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/starsports1.png" group-title="World Cup",Star Sports 1 HD
-http://103.153.181.18:8080/starsports1/index.m3u8
-#EXTINF:-1 tvg-id="starsports2" tvg-name="Star Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/starsports2.png" group-title="World Cup",Star Sports 2 HD
-http://103.153.181.18:8080/starsports2/index.m3u8
-#EXTINF:-1 tvg-id="starsports3" tvg-name="Star Sports 3" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/starsports3.png" group-title="World Cup",Star Sports 3
-http://103.153.181.18:8080/starsports3/index.m3u8
-#EXTINF:-1 tvg-id="ssselect1" tvg-name="Star Sports Select 1 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/ssselect1.png" group-title="World Cup",Star Sports Select 1 HD
-http://103.153.181.18:8080/ssselect1/index.m3u8
-#EXTINF:-1 tvg-id="ssselect2" tvg-name="Star Sports Select 2 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/ssselect2.png" group-title="World Cup",Star Sports Select 2 HD
-http://103.153.181.18:8080/ssselect2/index.m3u8
-#EXTINF:-1 tvg-id="sportsdigital" tvg-name="Sportdigital FUSSBALL" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/sportsdigital.png" group-title="World Cup",Sportdigital FUSSBALL
-http://103.153.181.18:8080/sportsdigital/index.m3u8
-#EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/ptvsports.png" group-title="World Cup",PTV Sports
-http://103.153.181.18:8080/ptvsports/index.m3u8
-#EXTINF:-1 tvg-id="arenasport1" tvg-name="Arena Sport 1" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/arenasport.png" group-title="World Cup",Arena Sport 1
-http://103.153.181.18:8080/arenasport1/index.m3u8
-#EXTINF:-1 tvg-id="arenasport2" tvg-name="Arena Sport 2" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/arenasport.png" group-title="World Cup",Arena Sport 2
-http://103.153.181.18:8080/arenasport2/index.m3u8
-#EXTINF:-1 tvg-id="ssblitz" tvg-name="SuperSport Blitz" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/supersport.png" group-title="World Cup",SuperSport Blitz
-http://103.153.181.18:8080/ssblitz/index.m3u8
-#EXTINF:-1 tvg-id="ssgrandstand" tvg-name="SuperSport Grandstand" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/supersport.png" group-title="World Cup",SuperSport Grandstand
-http://103.153.181.18:8080/ssgrandstand/index.m3u8
-#EXTINF:-1 tvg-id="fifafeed1" tvg-name="FIFA Match Feed 1" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="World Cup",FIFA Match Feed 1
-http://103.153.181.18:8080/fifafeed1/index.m3u8
-#EXTINF:-1 tvg-id="fifafeed2" tvg-name="FIFA Match Feed 2" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="World Cup",FIFA Match Feed 2
-http://103.153.181.18:8080/fifafeed2/index.m3u8
-#EXTINF:-1 tvg-id="willow" tvg-name="Willow Cricket HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/willow.png" group-title="World Cup",Willow Cricket HD
-http://103.153.181.18:8080/willow/index.m3u8
-#EXTINF:-1 tvg-id="astro" tvg-name="Astro SuperSport HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/astro.png" group-title="World Cup",Astro SuperSport HD
-http://103.153.181.18:8080/astro/index.m3u8
-#EXTINF:-1 tvg-id="skysports" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/skysports.png" group-title="World Cup",Sky Sports Main Event
-http://103.153.181.18:8080/skysports/index.m3u8
+#EXTINF:-1 tvg-id="t sports" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/image/T_Sports.png" group-title="World_Cup",T Sports
+http://198.195.239.50:8095/T-spo_rts-hoichoi24/video.m3u8
+
+#EXTINF:-1 tvg-id="star sports 1" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/image/T_Sports.png" group-title="World_Cup",T Sports (2)
+http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup 2026 link hindi
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup 2026
+https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Football World Cup 2026 (HIMALAYAN SPORTS)
+https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Zee Bangla Sonar (FIFA BANGLA COMMENTARY)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",BEIN 1 FHD
+http://1.la5liga.store:80/play/oOuLyOr0l4zfSQqe-48swyrUC_d5JG7Wj1gX3MfuOaHcCaCD-hqEbP027yBVHqJ4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",BEIN 4 MAX FHD
+http://1.la5liga.store:80/play/oOuLyOr0l4zfSQqe-48swyrUC_d5JG7Wj1gX3MfuOaE4OM3tuyzL533bO9nJYOIc
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Bein Sports Max 1
+http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=XgTsAjb1QkrYQQnjbPWlsw&e=1781176238
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Bein Sports Max 2
+http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=GL6h-5KFWoH5-xlxp4aZqw&e=1781180635
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Bein Sports Max 3
+http://het107a.ycn-redirect.com/live/33523510/index.m3u8?t=D3ELE-i9GsmOuKSnXG0bOQ&e=1781182200
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Unite8 Sports 1 HD
+https://zee.sulfuricacid.workers.dev/0-9-zeecafehd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Unite8 Sports 2 HD
+https://zee.sulfuricacid.workers.dev/0-9-channel_2105335046/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",TVRI INDO
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Caze TV
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",FOX SPORTS 2 US
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",NBC UNIVERSO
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",Caze TV BR
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",TUDN SPORTS FHD
+https://a162aivottevtad-a.akamaihd.net/IAD/83926f460d3441c0981f73bd62d7abab/v1/dash/091788724010/univision_vix_linear_amzn1_dv_live_csid_38f331a6-f6dd-4396-9193-4c0d5b6678b4_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd?aws.sessionId=bac94a06-9cdd-4392-a494-8e68c98055ae&amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",TELEMUNDO HD
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",TELEMUNDO FHD
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",DSPORTS FHD
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",DSPORTS HD
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/l0qqwxo6sc/out/v1/ba9e2a12afb54ab692464f9b7e72b0ba/cenc-sd.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",CIGNAL TV
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",FRANCE TV
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
