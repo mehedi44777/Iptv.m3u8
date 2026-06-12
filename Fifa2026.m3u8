@@ -1,0 +1,31 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/epg.xml"
+#EXTINF:-1 tvg-id="dsports.fhd" tvg-name="DSPORTS FHD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",DSPORTS FHD
+https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/dsportsfhd.m3u8
+#EXTINF:-1 tvg-id="bangla.wc26" tvg-name="Bangla WC26" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",Bangla WC26
+https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/banglawc26.m3u8
+#EXTINF:-1 tvg-id="bein1.fhd" tvg-name="BEIN 1 FHD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",BEIN 1 FHD
+https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/bein1fhd.m3u8
+#EXTINF:-1 tvg-id="bein.max1" tvg-name="Bein Sports Max 1" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",Bein Sports Max 1
+https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/beinmax1.m3u8
+#EXTINF:-1 tvg-id="bein.max2" tvg-name="Bein Sports Max 2" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",Bein Sports Max 2
+https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/beinmax2.m3u8
+#EXTINF:-1 tvg-id="bein.max3" tvg-name="Bein Sports Max 3" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",Bein Sports Max 3
+https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/beinmax3.m3u8
+#EXTINF:-1 tvg-id="cignal.tv" tvg-name="CIGNAL TV" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",CIGNAL TV
+https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/cignaltv.m3u8
+#EXTINF:-1 tvg-id="caze.tv" tvg-name="Caze TV" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",Caze TV
+https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/cazetv.m3u8
+#EXTINF:-1 tvg-id="caze.tvbr" tvg-name="Caze TV BR" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",Caze TV BR
+https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/cazetvbr.m3u8
+#EXTINF:-1 tvg-id="ddsports.1" tvg-name="DD Sports 1.0" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",DD Sports 1.0
+https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/ddsports1.m3u8
+#EXTINF:-1 tvg-id="dsports.hd" tvg-name="DSPORTS HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",DSPORTS HD
+https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/dsportshd.m3u8
+#EXTINF:-1 tvg-id="foxsports.us" tvg-name="FOX SPORTS US" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",FOX SPORTS US
+https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/foxsportsus.m3u8
+#EXTINF:-1 tvg-id="france.tv" tvg-name="FRANCE TV" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",FRANCE TV
+https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/francetv.m3u8
+#EXTINF:-1 tvg-id="himalaya.hd" tvg-name="Himalaya HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",Himalaya HD
+https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/himalayahd.m3u8
+#EXTINF:-1 tvg-id="himalaya.premium" tvg-name="Himalayan Premium HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA WC 2026 LIVE",Himalayan Premium HD
+https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/himalayapremiumhd.m3u8
