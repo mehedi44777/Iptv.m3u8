@@ -1,0 +1,29 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/epg.xml"
+#EXTINF:-1 tvg-id="tsports.bd" tvg-name="T Sports" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/tsports.png" group-title="FIFA World Cup",T Sports
+https://bdiptv.stream/stream/tsports/index.m3u8
+#EXTINF:-1 tvg-id="gazi.bd" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/gtv.png" group-title="FIFA World Cup",GTV
+https://bdiptv.stream/stream/gtv/index.m3u8
+#EXTINF:-1 tvg-id="sport1.in" tvg-name="Sports 18 1 HD" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/sports18.png" group-title="FIFA World Cup",Sports 18 1 HD
+https://bdiptv.stream/stream/sports18/index.m3u8
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD Sports" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/ddsports.png" group-title="FIFA World Cup",DD Sports
+https://bdiptv.stream/stream/ddsports/index.m3u8
+#EXTINF:-1 tvg-id="toffee.live" tvg-name="Toffee Live 1" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/toffee.png" group-title="FIFA World Cup",Toffee Live 1
+https://bdiptv.stream/stream/toffee1/index.m3u8
+#EXTINF:-1 tvg-id="toffee.live" tvg-name="Toffee Live 2" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/toffee.png" group-title="FIFA World Cup",Toffee Live 2
+https://bdiptv.stream/stream/toffee2/index.m3u8
+#EXTINF:-1 tvg-id="sportsdigital" tvg-name="Sportdigital FUSSBALL" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/sportsdigital.png" group-title="FIFA World Cup",Sportdigital FUSSBALL
+https://bdiptv.stream/stream/sportsdigital/index.m3u8
+#EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/ptvsports.png" group-title="FIFA World Cup",PTV Sports
+https://bdiptv.stream/stream/ptvsports/index.m3u8
+#EXTINF:-1 tvg-id="arenasport1" tvg-name="Arena Sport 1" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/arenasport.png" group-title="FIFA World Cup",Arena Sport 1
+https://bdiptv.stream/stream/arenasport1/index.m3u8
+#EXTINF:-1 tvg-id="arenasport2" tvg-name="Arena Sport 2" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/arenasport.png" group-title="FIFA World Cup",Arena Sport 2
+https://bdiptv.stream/stream/arenasport2/index.m3u8
+#EXTINF:-1 tvg-id="supersport.blitz" tvg-name="SuperSport Blitz" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/supersport.png" group-title="FIFA World Cup",SuperSport Blitz
+https://bdiptv.stream/stream/ssblitz/index.m3u8
+#EXTINF:-1 tvg-id="supersport.grandstand" tvg-name="SuperSport Grandstand" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/supersport.png" group-title="FIFA World Cup",SuperSport Grandstand
+https://bdiptv.stream/stream/ssgrandstand/index.m3u8
+#EXTINF:-1 tvg-id="fifa.feed1" tvg-name="FIFA Match Feed 1" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA World Cup",FIFA Match Feed 1
+https://bdiptv.stream/stream/fifafeed1/index.m3u8
+#EXTINF:-1 tvg-id="fifa.feed2" tvg-name="FIFA Match Feed 2" tvg-logo="https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/logo/fifa.png" group-title="FIFA World Cup",FIFA Match Feed 2
+https://bdiptv.stream/stream/fifafeed2/index.m3u8
